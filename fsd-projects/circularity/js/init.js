@@ -30,11 +30,9 @@ var circles = [];
     circles.push(circle);
 }
         // TODO 3 : Call the drawCircle() function
+for (var i = 0; i < 100; i++){
 drawCircle();
-drawCircle();
-drawCircle();
-drawCircle();
-drawCircle();
+}
         // TODO 7 : Use a loop to create multiple circles
 
 
